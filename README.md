@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Gaussian-function.py)
 
 # Gaussian Distributions
-The Gaussian distribution is defined by two parameters: the mean ($\mu$) and the standard deviation ($\sigma$). These determine the centre and spread of the distribution, respectively. The probability density function (PDF) of the Gaussian distribution describes the likehood of observing a value x given the distribution's parameters.
+The Gaussian distribution is defined by two parameters: the mean ($\mu$) and the standard deviation ($\sigma$). These determine the centre and spread of the distribution, respectively. The probability density function (PDF) of the Gaussian distribution describes the likelihood of observing a value x given the distribution's parameters.
 
 ## Standard Normal Probability Density Function (PDF)
 In one dimension, the standard normal probability density function $f(x)$ describes the probability density of observing a value $x$ from a standard normal distribution. It is defined as:
